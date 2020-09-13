@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://aqiani.gitee.io</id>
+    <id>https://daqianzi.github.io</id>
     <title>Aqian Blog</title>
-    <updated>2020-09-13T10:35:04.870Z</updated>
+    <updated>2020-09-13T10:39:41.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://aqiani.gitee.io"/>
-    <link rel="self" href="https://aqiani.gitee.io/atom.xml"/>
+    <link rel="alternate" href="https://daqianzi.github.io"/>
+    <link rel="self" href="https://daqianzi.github.io/atom.xml"/>
     <subtitle>低调学习</subtitle>
-    <logo>https://aqiani.gitee.io/images/avatar.png</logo>
-    <icon>https://aqiani.gitee.io/favicon.ico</icon>
+    <logo>https://daqianzi.github.io/images/avatar.png</logo>
+    <icon>https://daqianzi.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Aqian Blog</rights>
     <entry>
         <title type="html"><![CDATA[2020技能树]]></title>
-        <id>https://aqiani.gitee.io/post/2020-ji-neng-shu/</id>
-        <link href="https://aqiani.gitee.io/post/2020-ji-neng-shu/">
+        <id>https://daqianzi.github.io/post/2020-ji-neng-shu/</id>
+        <link href="https://daqianzi.github.io/post/2020-ji-neng-shu/">
         </link>
         <updated>2020-09-13T10:34:07.000Z</updated>
         <content type="html"><![CDATA[<p>❤️<br>
@@ -22,8 +22,8 @@ web</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://aqiani.gitee.io/post/hello-gridea/</id>
-        <link href="https://aqiani.gitee.io/post/hello-gridea/">
+        <id>https://daqianzi.github.io/post/hello-gridea/</id>
+        <link href="https://daqianzi.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
